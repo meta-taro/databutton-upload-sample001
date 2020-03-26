@@ -1,6 +1,6 @@
 # moneybutton決済でブロックチェーンにファイルをアップする
 
-```html:sample
+```html:test.html
 <html>
 <head>
 <style>
@@ -50,4 +50,4 @@ document.addEventListener("DOMContentLoaded", function(e) {
 	<?php /*** moneybuttonアカウントがあればブロックチェーンにアップできる ***/ ?>
 </body>
 </html>
-```(
+```
